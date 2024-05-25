@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e09"
+  },
+  "user_id": 1,
+  "text_message": "Hello from user1"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0a"
+  },
+  "user_id": 2,
+  "text_message": "Hello from user2"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0b"
+  },
+  "user_id": 3,
+  "text_message": "Hello from user3"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0c"
+  },
+  "user_id": 4,
+  "text_message": "Hello from user4"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0d"
+  },
+  "user_id": 5,
+  "text_message": "Hello from user5"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0e"
+  },
+  "user_id": 6,
+  "text_message": "Hello from user6"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e0f"
+  },
+  "user_id": 7,
+  "text_message": "Hello from user7"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e10"
+  },
+  "user_id": 8,
+  "text_message": "Hello from user8"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e11"
+  },
+  "user_id": 9,
+  "text_message": "Hello from user9"
+},
+{
+  "_id": {
+    "$oid": "6650d4c6b680b24914a76e12"
+  },
+  "user_id": 10,
+  "text_message": "Hello from user10"
+}]

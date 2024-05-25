@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dcd"
+  },
+  "user_id": 1,
+  "scope": "IT",
+  "experience": 5
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dce"
+  },
+  "user_id": 2,
+  "scope": "Finance",
+  "experience": 10
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dcf"
+  },
+  "user_id": 3,
+  "scope": "Marketing",
+  "experience": 2
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd0"
+  },
+  "user_id": 4,
+  "scope": "HR",
+  "experience": 8
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd1"
+  },
+  "user_id": 5,
+  "scope": "Management",
+  "experience": 15
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd2"
+  },
+  "user_id": 6,
+  "scope": "Sales",
+  "experience": 7
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd3"
+  },
+  "user_id": 7,
+  "scope": "Education",
+  "experience": 3
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd4"
+  },
+  "user_id": 8,
+  "scope": "Healthcare",
+  "experience": 12
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd5"
+  },
+  "user_id": 9,
+  "scope": "Engineering",
+  "experience": 4
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dd6"
+  },
+  "user_id": 10,
+  "scope": "Consulting",
+  "experience": 9
+}]

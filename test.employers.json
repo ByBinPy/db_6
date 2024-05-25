@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de1"
+  },
+  "employer_id": 21,
+  "tin": "123456789",
+  "company_name": "Tech Corp",
+  "rating": 4.5,
+  "scope": "IT",
+  "description": "A tech company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de2"
+  },
+  "employer_id": 22,
+  "tin": "987654321",
+  "company_name": "Finance Inc",
+  "rating": 4,
+  "scope": "Finance",
+  "description": "A finance company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de3"
+  },
+  "employer_id": 23,
+  "tin": "456123789",
+  "company_name": "Marketing Masters",
+  "rating": 3.8,
+  "scope": "Marketing",
+  "description": "A marketing company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de4"
+  },
+  "employer_id": 24,
+  "tin": "789456123",
+  "company_name": "HR Experts",
+  "rating": 4.2,
+  "scope": "HR",
+  "description": "An HR company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de5"
+  },
+  "employer_id": 25,
+  "tin": "321789456",
+  "company_name": "Management Pros",
+  "rating": 4.7,
+  "scope": "Management",
+  "description": "A management company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de6"
+  },
+  "employer_id": 26,
+  "tin": "654987321",
+  "company_name": "Sales Leaders",
+  "rating": 3.9,
+  "scope": "Sales",
+  "description": "A sales company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de7"
+  },
+  "employer_id": 27,
+  "tin": "789123456",
+  "company_name": "Education Partners",
+  "rating": 4.1,
+  "scope": "Education",
+  "description": "An education company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de8"
+  },
+  "employer_id": 28,
+  "tin": "123789456",
+  "company_name": "Healthcare Solutions",
+  "rating": 4.3,
+  "scope": "Healthcare",
+  "description": "A healthcare company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76de9"
+  },
+  "employer_id": 29,
+  "tin": "456987123",
+  "company_name": "Engineering Experts",
+  "rating": 4,
+  "scope": "Engineering",
+  "description": "An engineering company"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76dea"
+  },
+  "employer_id": 30,
+  "tin": "789321654",
+  "company_name": "Consulting Masters",
+  "rating": 4.4,
+  "scope": "Consulting",
+  "description": "A consulting company"
+}]

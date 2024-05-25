@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc3"
+  },
+  "user_id": 1,
+  "username": "user1",
+  "surname": "surname1",
+  "patronymic": "patronymic1"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc4"
+  },
+  "user_id": 2,
+  "username": "user2",
+  "surname": "surname2",
+  "patronymic": "patronymic2"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc5"
+  },
+  "user_id": 3,
+  "username": "user3",
+  "surname": "surname3",
+  "patronymic": "patronymic3"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc6"
+  },
+  "user_id": 4,
+  "username": "user4",
+  "surname": "surname4",
+  "patronymic": "patronymic4"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc7"
+  },
+  "user_id": 5,
+  "username": "user5",
+  "surname": "surname5",
+  "patronymic": "patronymic5"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc8"
+  },
+  "user_id": 6,
+  "username": "user6",
+  "surname": "surname6",
+  "patronymic": "patronymic6"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dc9"
+  },
+  "user_id": 7,
+  "username": "user7",
+  "surname": "surname7",
+  "patronymic": "patronymic7"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dca"
+  },
+  "user_id": 8,
+  "username": "user8",
+  "surname": "surname8",
+  "patronymic": "patronymic8"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dcb"
+  },
+  "user_id": 9,
+  "username": "user9",
+  "surname": "surname9",
+  "patronymic": "patronymic9"
+},
+{
+  "_id": {
+    "$oid": "6650d4c2b680b24914a76dcc"
+  },
+  "user_id": 10,
+  "username": "user10",
+  "surname": "surname10",
+  "patronymic": "patronymic10"
+}]

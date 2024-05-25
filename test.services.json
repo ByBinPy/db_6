@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76df5"
+  },
+  "service_id": 1,
+  "consultant_id": 1,
+  "cost_service": 100,
+  "description": "IT consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76df6"
+  },
+  "service_id": 2,
+  "consultant_id": 2,
+  "cost_service": 200,
+  "description": "Financial consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76df7"
+  },
+  "service_id": 3,
+  "consultant_id": 3,
+  "cost_service": 150,
+  "description": "Marketing consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76df8"
+  },
+  "service_id": 4,
+  "consultant_id": 4,
+  "cost_service": 180,
+  "description": "HR consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76df9"
+  },
+  "service_id": 5,
+  "consultant_id": 5,
+  "cost_service": 220,
+  "description": "Management consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76dfa"
+  },
+  "service_id": 6,
+  "consultant_id": 6,
+  "cost_service": 170,
+  "description": "Sales consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76dfb"
+  },
+  "service_id": 7,
+  "consultant_id": 7,
+  "cost_service": 120,
+  "description": "Education consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76dfc"
+  },
+  "service_id": 8,
+  "consultant_id": 8,
+  "cost_service": 210,
+  "description": "Healthcare consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76dfd"
+  },
+  "service_id": 9,
+  "consultant_id": 9,
+  "cost_service": 160,
+  "description": "Engineering consulting service"
+},
+{
+  "_id": {
+    "$oid": "6650d4c5b680b24914a76dfe"
+  },
+  "service_id": 10,
+  "consultant_id": 10,
+  "cost_service": 190,
+  "description": "General consulting service"
+}]

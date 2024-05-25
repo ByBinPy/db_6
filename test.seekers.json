@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76dd7"
+  },
+  "user_id": 11,
+  "address": "123 Main St",
+  "phone_number": "123-456-7890",
+  "email": "seeker1@example.com",
+  "status": "looking"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76dd8"
+  },
+  "user_id": 12,
+  "address": "456 Elm St",
+  "phone_number": "987-654-3210",
+  "email": "seeker2@example.com",
+  "status": "employed"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76dd9"
+  },
+  "user_id": 13,
+  "address": "789 Oak St",
+  "phone_number": "456-789-1234",
+  "email": "seeker3@example.com",
+  "status": "looking"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76dda"
+  },
+  "user_id": 14,
+  "address": "321 Pine St",
+  "phone_number": "321-654-9870",
+  "email": "seeker4@example.com",
+  "status": "employed"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76ddb"
+  },
+  "user_id": 15,
+  "address": "654 Maple St",
+  "phone_number": "654-321-0987",
+  "email": "seeker5@example.com",
+  "status": "looking"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76ddc"
+  },
+  "user_id": 16,
+  "address": "987 Birch St",
+  "phone_number": "789-456-1230",
+  "email": "seeker6@example.com",
+  "status": "employed"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76ddd"
+  },
+  "user_id": 17,
+  "address": "111 Cedar St",
+  "phone_number": "111-222-3333",
+  "email": "seeker7@example.com",
+  "status": "looking"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76dde"
+  },
+  "user_id": 18,
+  "address": "222 Fir St",
+  "phone_number": "222-333-4444",
+  "email": "seeker8@example.com",
+  "status": "employed"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76ddf"
+  },
+  "user_id": 19,
+  "address": "333 Spruce St",
+  "phone_number": "333-444-5555",
+  "email": "seeker9@example.com",
+  "status": "looking"
+},
+{
+  "_id": {
+    "$oid": "6650d4c3b680b24914a76de0"
+  },
+  "user_id": 20,
+  "address": "444 Redwood St",
+  "phone_number": "444-555-6666",
+  "email": "seeker10@example.com",
+  "status": "employed"
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76deb"
+  },
+  "vacancy_id": 1,
+  "employer_id": 21,
+  "profession": "Software Developer",
+  "description": "Develop software",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76dec"
+  },
+  "vacancy_id": 2,
+  "employer_id": 22,
+  "profession": "Accountant",
+  "description": "Manage finances",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76ded"
+  },
+  "vacancy_id": 3,
+  "employer_id": 23,
+  "profession": "Marketing Specialist",
+  "description": "Promote products",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76dee"
+  },
+  "vacancy_id": 4,
+  "employer_id": 24,
+  "profession": "HR Manager",
+  "description": "Manage HR tasks",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76def"
+  },
+  "vacancy_id": 5,
+  "employer_id": 25,
+  "profession": "Project Manager",
+  "description": "Manage projects",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76df0"
+  },
+  "vacancy_id": 6,
+  "employer_id": 26,
+  "profession": "Sales Representative",
+  "description": "Sell products",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76df1"
+  },
+  "vacancy_id": 7,
+  "employer_id": 27,
+  "profession": "Teacher",
+  "description": "Teach students",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76df2"
+  },
+  "vacancy_id": 8,
+  "employer_id": 28,
+  "profession": "Nurse",
+  "description": "Provide healthcare",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76df3"
+  },
+  "vacancy_id": 9,
+  "employer_id": 29,
+  "profession": "Engineer",
+  "description": "Develop engineering solutions",
+  "format": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "6650d4c4b680b24914a76df4"
+  },
+  "vacancy_id": 10,
+  "employer_id": 30,
+  "profession": "Consultant",
+  "description": "Provide consulting",
+  "format": "Full-time"
+}]

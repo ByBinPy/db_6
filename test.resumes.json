@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e13"
+  },
+  "resume_id": 1,
+  "seeker_id": 11,
+  "experience": 3,
+  "profession": "Developer",
+  "salary": 50000,
+  "skills": "JavaScript, Node.js"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e14"
+  },
+  "resume_id": 2,
+  "seeker_id": 12,
+  "experience": 5,
+  "profession": "Accountant",
+  "salary": 60000,
+  "skills": "Excel, QuickBooks"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e15"
+  },
+  "resume_id": 3,
+  "seeker_id": 13,
+  "experience": 2,
+  "profession": "Marketer",
+  "salary": 45000,
+  "skills": "SEO, Google Ads"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e16"
+  },
+  "resume_id": 4,
+  "seeker_id": 14,
+  "experience": 4,
+  "profession": "HR Specialist",
+  "salary": 55000,
+  "skills": "Recruitment, Training"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e17"
+  },
+  "resume_id": 5,
+  "seeker_id": 15,
+  "experience": 7,
+  "profession": "Project Manager",
+  "salary": 70000,
+  "skills": "Project Planning, Agile"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e18"
+  },
+  "resume_id": 6,
+  "seeker_id": 16,
+  "experience": 1,
+  "profession": "Sales Representative",
+  "salary": 40000,
+  "skills": "Salesforce, Negotiation"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e19"
+  },
+  "resume_id": 7,
+  "seeker_id": 17,
+  "experience": 6,
+  "profession": "Teacher",
+  "salary": 48000,
+  "skills": "Curriculum Development, Teaching"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e1a"
+  },
+  "resume_id": 8,
+  "seeker_id": 18,
+  "experience": 8,
+  "profession": "Nurse",
+  "salary": 65000,
+  "skills": "Patient Care, Medication Administration"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e1b"
+  },
+  "resume_id": 9,
+  "seeker_id": 19,
+  "experience": 3,
+  "profession": "Engineer",
+  "salary": 55000,
+  "skills": "CAD, Problem Solving"
+},
+{
+  "_id": {
+    "$oid": "6650d4c7b680b24914a76e1c"
+  },
+  "resume_id": 10,
+  "seeker_id": 20,
+  "experience": 5,
+  "profession": "Consultant",
+  "salary": 60000,
+  "skills": "Consulting, Client Management"
+}]
